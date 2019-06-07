@@ -1,0 +1,84 @@
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\bin\Debug\OOP2_Project.exe.config
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\bin\Debug\OOP2_Project.exe
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\bin\Debug\OOP2_Project.pdb
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.csprojAssemblyReference.cache
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.frmHomePage.resources
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.frmCart.resources
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.frmOrder.resources
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.frmPayment.resources
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.frmProduct.resources
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.frmType.resources
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.frmLogin.resources
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.Properties.Resources.resources
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.frmRegister.resources
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.csproj.GenerateResource.cache
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.csproj.CoreCompileInputs.cache
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.exe
+C:\Users\Özge ÇEVİK\Desktop\OOP2_Project\OOP2_Project\obj\Debug\OOP2_Project.pdb
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\bin\Debug\OOP2_Project.exe.config
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\bin\Debug\OOP2_Project.exe
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\bin\Debug\OOP2_Project.pdb
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.csprojAssemblyReference.cache
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmHomePage.resources
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmCart.resources
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmOrder.resources
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmPayment.resources
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmProduct.resources
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmType.resources
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmLogin.resources
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.Properties.Resources.resources
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmRegister.resources
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.csproj.GenerateResource.cache
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.csproj.CoreCompileInputs.cache
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.exe
+D:\______________DERSLER_____________\3.Sınıf\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.pdb
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\bin\Debug\OOP2_Project.exe.config
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\bin\Debug\OOP2_Project.exe
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\bin\Debug\OOP2_Project.pdb
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmHomePage.resources
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmCart.resources
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmOrder.resources
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmPayment.resources
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmProduct.resources
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmType.resources
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmLogin.resources
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.Properties.Resources.resources
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmRegister.resources
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.exe
+C:\Users\Furkan\Desktop\3-2\online book strore\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.pdb
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\bin\Debug\OOP2_Project.exe.config
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\bin\Debug\OOP2_Project.exe
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\bin\Debug\OOP2_Project.pdb
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmHomePage.resources
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmCart.resources
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmOrder.resources
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmPayment.resources
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmProduct.resources
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmType.resources
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmLogin.resources
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.Properties.Resources.resources
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.frmRegister.resources
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.exe
+C:\Users\Furkan\Desktop\OOP2_Project(özgür gültekin)\OOP2_Project(özgür gültekin)\OOP2_Project\obj\Debug\OOP2_Project.pdb
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\bin\Debug\OOP2_Project.exe.config
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\bin\Debug\OOP2_Project.exe
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\bin\Debug\OOP2_Project.pdb
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.frmHomePage.resources
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.frmCart.resources
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.frmOrder.resources
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.frmPayment.resources
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.frmProduct.resources
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.frmType.resources
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.frmLogin.resources
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.Properties.Resources.resources
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.frmRegister.resources
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.exe
+C:\Users\Asus\Desktop\OOP2_2019\OOP2_2019\OOP2_Project\obj\Debug\OOP2_Project.pdb
